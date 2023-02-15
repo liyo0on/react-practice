@@ -1,0 +1,16 @@
+.alert {
+    padding: 0;
+    color: mediumblue;
+    text-align: center;
+    text-transform: capitalize;
+    border-radius: 2px;
+    margin-top: 20px;
+}
+
+.alert-daner {
+    background-color: red;
+}
+
+.alert-success {
+    background-color: green;
+}
